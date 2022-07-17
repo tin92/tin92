@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tin92
+- 👋 Hi, I’m @tin92 (Tinashe Ndemera)
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning artificial intelligence 
 - 💞️ I’m looking to collaborate on anything really as long as it piques my interest
